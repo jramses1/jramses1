@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jramses1
+- 👋 Hi, I’m John-Ramses Thomas
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning SQL, Excel, Tableau, Power BI and Python
 - 💞️ I’m looking to collaborate on 
